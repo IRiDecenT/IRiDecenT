@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-
-
-
-作者: holic-x
-链接: https://blog.holic-x.com/wv-blog/post/7ad96a5d.html#GitHub-Readme-Stats
-来源: 一人の境
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+### 🌟Carpe Diem🌟
 
 <!--
 **IRiDecenT/IRiDecenT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
